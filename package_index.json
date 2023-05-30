@@ -15,7 +15,7 @@
             "version": "5.29.3",
             "category": "Energia",
             "url": "https://github.com/stevensaltaccount/MSP432P4111-for-Arduino-IDE/raw/main/msp432p-core-5.29.2.tar.bz2",
-            "archiveFileName": "msp432p-core-5.29.0-beta1.tar.bz2",
+            "archiveFileName": "msp432p-core-5.29.2.tar.bz2",
             "checksum": "SHA-256:B6CA3A086C78F95E6C92A4D689EA9E6E0BF9CC67119E3D43F0531699A9522DFA",
             "size": "30641796",
             "boards": [
