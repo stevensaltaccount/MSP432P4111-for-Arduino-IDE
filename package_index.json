@@ -118,7 +118,7 @@
             "url": "https://github.com/stevensaltaccount/MSP432P4111-for-Arduino-IDE/blob/main/msp432p-core-5.29.2.tar.bz2",
             "archiveFileName": "msp432p-core-5.29.2.tar.bz2",
             "checksum": "278D1424BBBE13E39CCA1784B1C43D7EF9EC2A725437E70B5A2FFFB20C842EE4",
-            "size": "30593959",
+            "size": "142176",
             "boards": [
               {"name": "MSP_EXP432P4111"}
             ],
